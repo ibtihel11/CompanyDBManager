@@ -1,6 +1,6 @@
 -- Insert into clients
 INSERT INTO clients (name, email, phone, address) VALUES
-('yassine ihtichen', 'yassine@gmail.com', '46 512 975', 'sfax, tunis');
+('random', 'random@gmail.com', '46 512 975', 'sfax, tunis');
 
 -- Insert into products
 INSERT INTO products (name, description, unit, unit_price, stock_quantity) VALUES
